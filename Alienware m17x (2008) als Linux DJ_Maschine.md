@@ -93,6 +93,11 @@ Das USB-Gerät unterstützt nur: 46875 Hz
 
 und nicht die üblichen Standardraten: 44100 Hz, 48000 Hz
 
+## Meine Setup Fotos
+
+![Setup Weitwinkel](am17_weit.jpg)   
+![Setup Weitwinkel](am17_m.jpg) 
+
 ---
 
 # Analyse
@@ -166,9 +171,6 @@ Hersteller: alienware
 Produktname: Alienware M17
 Systemversion: W841.B10
 
-## Meine Setup Fotos
 
-![Setup Weitwinkel](am17_weit.jpg)   
-![Setup Weitwinkel](am17_m.jpg) 
 
-![Setup Nahaufnahme](assets/Am17_m.jpg)
+
