@@ -166,6 +166,9 @@ Hersteller: alienware
 Produktname: Alienware M17
 Systemversion: W841.B10
 
+## Meine Setup Fotos
 
-![Setup Weitwinkel](assets/Am17_weit.jpg)
+![Setup Weitwinkel](assets/Am17_weit.jpg)   
+
+
 ![Setup Nahaufnahme](assets/Am17_m.jpg)
