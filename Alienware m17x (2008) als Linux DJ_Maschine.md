@@ -170,7 +170,7 @@ Hardware:
 Prozessoren: 2 × Intel® Core™2 Duo CPU     P8400  @ 2.26GHz
 Arbeitsspeicher: 4 GiB (3,8 GiB nutzbar)
 Grafikprozessor: AMD RV670
-Hersteller: alienware
+Hersteller: alienware - nicht DELL!
 Produktname: Alienware M17 (Ripley-Design)
 Systemversion: W841.B10
 
