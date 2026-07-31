@@ -2,7 +2,7 @@
 
 ## Projektziel
 
-Dieses Projekt dokumentiert den Umbau und die Optimierung eines 1.GENERATION Alienware m17x aus dem Jahr 2008 zu einer extraordinären Linux-basierten DJ-Maschine. Einer der Hauptgründe für die weitere Benutzung der Maschine ist sein subtileres, unterkühlteres Äußeres mit einer gummierter „Stealth Black Soft-Touch“-Oberfläche, in die wir uns verliebt haben.
+Dieses Projekt dokumentiert den Umbau und die Optimierung eines 1.GENERATION Alienware m17x aus dem Jahr 2008 zu einer extraordinären Linux-basierten DJ-Maschine. Einer der Hauptgründe für die weitere Benutzung der Maschine ist ihr subtileres, unterkühlteres Äußeres mit einer gummierten „Stealth Black Soft-Touch“-Oberfläche, in die wir uns verliebt haben.
 
 
 
