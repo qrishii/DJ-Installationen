@@ -52,7 +52,7 @@ Version: Mixxx 2.4
 Verwendung:
 
 - Master-Ausgabe über USB Audio Device
-- Kopfhörer-Vorhören über USB Headphone Set
+- Kopfhörer-Vorhören über Mini USB Soundkarte
 
 ---
 
@@ -76,7 +76,7 @@ Bits: 16
 
 ### Kopfhörer
 
-C-Media USB Headphone Set
+C-Media Mini USB Soundkarte
 
 ---
 
@@ -145,7 +145,7 @@ Aktuell:
 ✅ Mixxx 2.4 läuft
 ✅ USB Master Output funktioniert
 ✅ Kopfhörer-Monitoring funktioniert
-✅ Alte Hardware erfolgreich wiederverwendet
+✅ 1.GENERATION Hardware erfolgreich wiederverwendet
 
 Projektstatus:
 Work in Progress
