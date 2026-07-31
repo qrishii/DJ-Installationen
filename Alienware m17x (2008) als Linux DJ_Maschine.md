@@ -168,7 +168,7 @@ Systemversion: W841.B10
 
 ## Meine Setup Fotos
 
-![Setup Weitwinkel](assets/Am17_weit.jpg)   
-
+![Setup Weitwinkel](am17_weit.jpg)   
+![Setup Weitwinkel](am17_m.jpg) 
 
 ![Setup Nahaufnahme](assets/Am17_m.jpg)
