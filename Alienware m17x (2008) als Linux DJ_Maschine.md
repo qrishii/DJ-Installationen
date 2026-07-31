@@ -4,6 +4,18 @@
 
 Dieses Projekt dokumentiert den Umbau und die Optimierung eines 1.GENERATION Alienware m17x aus dem Jahr 2008 zu einer extraordinären Linux-basierten DJ-Maschine. Einer der Hauptgründe für die weitere Benutzung der Maschine ist sein subtileres, unterkühlteres Äußeres mit einer gummierter „Stealth Black Soft-Touch“-Oberfläche, in die wir uns verliebt haben.
 
+
+
+## Setup Fotos
+
+![Setup Weitwinkel](am17_weit.jpg)
+
+Das Masterpice im Bilderrahmen ist von trootootoo 
+
+![Setup Weitwinkel](am17_m.jpg) 
+
+
+
 Der Schwerpunkt liegt auf:
 
 - Wiederverwendung sehr guter Hardware
@@ -93,13 +105,7 @@ Das USB-Gerät unterstützt nur: 46875 Hz
 
 und nicht die üblichen Standardraten: 44100 Hz, 48000 Hz
 
-## Meine Setup Fotos
 
-![Setup Weitwinkel](am17_weit.jpg)
-
-Das Masterpice im Bilderrahmen ist von trootootoo [Folge trootootoo auf Facebook](https://external.ink?to=https://www.facebook.com/andytrootootoo)      
-
-![Setup Weitwinkel](am17_m.jpg) 
 
 ---
 
