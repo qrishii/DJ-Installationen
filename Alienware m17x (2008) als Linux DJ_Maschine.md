@@ -1,12 +1,12 @@
-# Alienware m17x (2008) als Linux DJ Workstation
+# Alienware m17x (2008) als verblüffende Linux DJ-Maschine
 
 ## Projektziel
 
-Dieses Projekt dokumentiert den Umbau und die Optimierung eines alten Alienware m17x aus dem Jahr 2008 zu einer modernen Linux-basierten DJ-Workstation
+Dieses Projekt dokumentiert den Umbau und die Optimierung eines 1.GENERATION Alienware m17x aus dem Jahr 2008 zu einer extraordinären Linux-basierten DJ-Maschine. Einer der Hauptgründe für die weitere Benutzung der Maschine ist sein subtileres, unterkühlteres Äußeres mit einer gummierter „Stealth Black Soft-Touch“-Oberfläche, in die wir uns verliebt haben.
 
 Der Schwerpunkt liegt auf:
 
-- Wiederverwendung älterer Hardware
+- Wiederverwendung sehr guter Hardware
 - Open-Source-Software
 - Linux Audio
 - Mixxx DJ Software
@@ -171,8 +171,10 @@ Prozessoren: 2 × Intel® Core™2 Duo CPU     P8400  @ 2.26GHz
 Arbeitsspeicher: 4 GiB (3,8 GiB nutzbar)
 Grafikprozessor: AMD RV670
 Hersteller: alienware
-Produktname: Alienware M17
+Produktname: Alienware M17 (Ripley-Design)
 Systemversion: W841.B10
+
+das Leben ist lustig
 
 
 
