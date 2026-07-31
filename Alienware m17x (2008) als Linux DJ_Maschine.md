@@ -97,7 +97,7 @@ und nicht die üblichen Standardraten: 44100 Hz, 48000 Hz
 
 ![Setup Weitwinkel](am17_weit.jpg)
 
-Das Masterpice im Bilderrahmen ist von trootootoo
+Das Masterpice im Bilderrahmen ist von trootootoo https://www.facebook.com/andytrootootoo
 
 ![Setup Weitwinkel](am17_m.jpg) 
 
