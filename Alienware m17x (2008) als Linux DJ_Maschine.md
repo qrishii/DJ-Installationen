@@ -95,7 +95,10 @@ und nicht die üblichen Standardraten: 44100 Hz, 48000 Hz
 
 ## Meine Setup Fotos
 
-![Setup Weitwinkel](am17_weit.jpg)   
+![Setup Weitwinkel](am17_weit.jpg)
+
+Das Masterpice im Bilderrahmen ist von trootootoo
+
 ![Setup Weitwinkel](am17_m.jpg) 
 
 ---
