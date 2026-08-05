@@ -8,7 +8,7 @@
 
 Eine stabile Linux-DJ-Plattform auf Basis eines Alienware m17x aus dem Jahr 2008.
 
-Dieses Projekt dokumentiert die Modernisierung und Optimierung eines 1.Gen. Alienware-Notebooks in eine extraordinäre und stabile DJ-Maschine unter Linux. Ziel war nicht maximale Rechenleistung, sondern eine solide Audio-Plattform mit geringer Systemlast, hoher Beständigkeit und nachhaltigerm Upcycling hochwertiger Hardware.
+Dieses Projekt dokumentiert die Modernisierung und Optimierung eines 1.Gen. Alienware-Notebooks in eine extraordinäre und stabile DJ-Maschine unter Linux. Ziel war nicht maximale Rechenleistung, sondern eine solide Audio-Plattform mit geringer Systemlast, hoher Beständigkeit und nachhaltigem Upcycling hochwertiger Hardware.
 
 Nach Abschluss aller Optimierungen arbeitet das System im Langzeittest stabil, knisterfrei und mit hervorragender Audioqualität.
 
