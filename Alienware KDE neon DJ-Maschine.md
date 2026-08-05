@@ -8,7 +8,7 @@
 
 Eine stabile Linux-DJ-Plattform auf Basis eines Alienware m17x aus dem Jahr 2008.
 
-Dieses Projekt dokumentiert die Modernisierung und Optimierung eines 1.Gen. Alienware-Notebooks zu einer extraordinären und stabilen DJ-Maschine unter Linux. Ziel war nicht maximale Rechenleistung, sondern eine solide Audio-Plattform mit geringer Systemlast, hoher Zuverlässigkeit und nachhaltiger Weiterverwendung hochwertiger Hardware.
+Dieses Projekt dokumentiert die Modernisierung und Optimierung eines 1.Gen. Alienware-Notebooks in eine extraordinäre und stabile DJ-Maschine unter Linux. Ziel war nicht maximale Rechenleistung, sondern eine solide Audio-Plattform mit geringer Systemlast, hoher Beständigkeit und nachhaltigerm Upcycling hochwertiger Hardware.
 
 Nach Abschluss aller Optimierungen arbeitet das System im Langzeittest stabil, knisterfrei und mit hervorragender Audioqualität.
 
@@ -24,7 +24,7 @@ Das Masterpice im Bilderrahmen ist von trootootoo
 
 ## Projektziel
 
-Ziel des Projekts war der Aufbau einer möglichst schlanken und zuverlässigen Linux-DJ-Plattform.
+Ziel des Projekts war der Aufbau einer möglichst schlanken und stabilen Linux-DJ-Plattform.
 
 Die Maschine wird ausschließlich für folgende Aufgaben eingesetzt:
 
@@ -106,7 +106,7 @@ Besondere Merkmale:
 - robuste Konstruktion
 - dezentes, funktionales Erscheinungsbild
 
-Modelle mit dieser Gehäuseausführung sind heute nur noch selten anzutreffen.
+Modelle mit dieser Gehäuseausführung sind heute selten.
 
 Der Erhalt des Systems war daher nicht nur eine technische, sondern auch eine ästhetische Entscheidung.
 
@@ -287,7 +287,7 @@ PA_ALSA_PLUGHW=1
 
 Im KDE-Menü-Editor wird der Parameter unter **Befehlszeilen-Argumente** eingetragen.
 
-Dadurch kann Mixxx das Master-Audiointerface zuverlässig über ALSA öffnen, ohne das man es bei jedem Start manuell eintragen muss.
+Dadurch kann Mixxx das Master-Audiointerface stabil über ALSA öffnen, ohne das man es bei jedem Start manuell eintragen muss.
 
 ---
 
@@ -304,7 +304,7 @@ Startparameter:
 PA_ALSA_PLUGHW=1
 ```
 
-Dadurch kann Mixxx das Master-Gerät zuverlässig öffnen.
+Dadurch kann Mixxx das Master-Gerät stabil öffnen.
 
 ---
 
@@ -383,7 +383,7 @@ Untersucht wurden unter anderem:
 
 Mehrere Arbeitshypothesen konnten im Verlauf der Untersuchungen ausgeschlossen oder angepasst werden.
 
-Die erreichte Stabilität entstand nicht durch eine einzelne Änderung, sondern durch das Zusammenspiel aller vorgenommenen Optimierungen.
+Die erreichte Stabilität entstand nicht durch eine einzelne Änderung, sondern durch den Einklang aller vorgenommenen Optimierungen.
 
 ### Gerätepegel
 
@@ -401,7 +401,7 @@ Betriebseinstellung.
 
 ## Projektergebnis
 
-Mit einer Gesamtinvestition von rund **100 €** entstand aus einem Alienware m17x (2008) eine zuverlässige Linux-DJ-Maschine für den produktiven Einsatz.
+Mit einer Gesamtinvestition von rund **100 €** entstand aus einem Alienware m17x (2008) eine stabile Linux-DJ-Maschine für den produktiven Einsatz.
 
 Erreicht wurden:
 
@@ -409,7 +409,7 @@ Erreicht wurden:
 - moderne Audio-Infrastruktur
 - geringe Systemlast
 - kurze Bootzeit
-- zuverlässiger Langzeitbetrieb
+- stabiler Langzeitbetrieb
 - hervorragende Audioqualität
 - nachhaltige Weiterverwendung hochwertiger Hardware
 
@@ -421,7 +421,7 @@ Dieses Projekt zeigt, dass hochwertige Hardware auch nach vielen Jahren sinnvoll
 
 Der Fokus lag nicht auf maximaler Rechenleistung, sondern auf Stabilität, Reparierbarkeit und nachhaltiger Nutzung.
 
-Aus einem Alienware m17x (2008) entstand Schritt für Schritt eine zuverlässige Linux-DJ-Maschine für den produktiven Einsatz.
+Aus einem Alienware m17x (2008) entstand Schritt für Schritt eine stabile Linux-DJ-Maschine für den produktiven Einsatz.
 
 ---
 
@@ -429,7 +429,7 @@ Aus einem Alienware m17x (2008) entstand Schritt für Schritt eine zuverlässige
 
 Die eigentliche Magie lag nicht in einem einzelnen Fix.
 
-Sie entstand aus Disziplin, Geduld und den richtigen Intuitionen im Zusammenspiel von Mensch und Soft- und Hardware.
+Sie entstand aus Disziplin, Geduld und den richtigen Intuitionen in Interaktion von Mensch, Soft- und Hardware.
 
 Aus vielen kleinen Beobachtungen, Tests und Erkenntnissen entwickelte sich Schritt für Schritt eine stabile und reproduzierbare Lösung.
 
